@@ -8,7 +8,7 @@ var arrays = [
 				[ "百度贴吧", "img\\tieba.png",
 						"http://www.baidu.com/home/show/home" ],
 				[ "腾讯qq空间", "img\\kongjian.png", "bin/index.html" ],
-				[ "新浪微博", "img\\weibo.png", "index.html" ],
+				[ "新浪微博", "img\\weibo.png", "test/index.html" ],
 				[ "网易163邮箱", "img\\163youxiang.png", "index.html" ],
 				[ "腾讯qq邮箱", "img\\qqyouxiang.png", "index.html" ] ],
 		[
